@@ -1,0 +1,51 @@
+customer_id,customer_name,email,phone,course_id,course_name,course_category,price,discount,order_date
+1,John Doe,john.doe@email.com,555-1234-5678,101,Introduction to Programming,Programming,49.99,0.1,2023-01-15
+2,Jane Smith,jane.smith@email.com,555-9876-5432,102,Data Science Fundamentals,Data Science,79.99,0.05,2023-02-03
+3,Bob Johnson,bob.johnson@email.com,555-5678-1234,103,Web Development Basics,Web Development,59.99,0.2,2023-03-10
+4,Alice Brown,alice.brown@email.com,555-4321-8765,104,Marketing Strategies,Marketing,69.99,0.15,2023-04-22
+5,Chris Wilson,chris.wilson@email.com,555-8765-4321,105,Graphic Design Essentials,Design,54.99,0.1,2023-05-05
+6,Emily Davis,emily.davis@email.com,555-2345-6789,106,Financial Planning 101,Finance,89.99,0.05,2023-06-18
+7,Mike Anderson,mike.anderson@email.com,555-6789-2345,107,Leadership Skills Workshop,Leadership,74.99,0.2,2023-07-01
+8,Susan Miller,susan.miller@email.com,555-3456-7890,108,Language Learning: Spanish,Language,44.99,0.15,2023-08-14
+9,David White,david.white@email.com,555-7890-3456,109,Photography Basics,Photography,64.99,0.1,2023-09-27
+10,Emma Taylor,emma.taylor@email.com,555-4567-8901,110,Social Media Marketing,Marketing,79.99,0.05,2023-10-09
+11,George Turner,george.turner@email.com,555-8901-4567,111,UX/UI Design Principles,Design,59.99,0.2,2023-11-22
+12,Linda Moore,linda.moore@email.com,555-1234-5678,112,Investing for Beginners,Finance,89.99,0.15,2023-12-05
+13,Paul Robinson,paul.robinson@email.com,555-9876-5432,113,Advanced Java Programming,Programming,69.99,0.1,2024-01-18
+14,Amy Davis,amy.davis@email.com,555-5678-1234,114,Machine Learning Basics,Data Science,99.99,0.05,2024-02-29
+15,Brian Jackson,brian.jackson@email.com,555-4321-8765,115,Full Stack Web Development,Web Development,109.99,0.2,2024-03-13
+16,Karen Turner,karen.turner@email.com,555-8765-4321,116,Content Marketing Strategies,Marketing,59.99,0.15,2024-04-26
+17,Tom Miller,tom.miller@email.com,555-2345-6789,117,Logo Design Workshop,Design,49.99,0.1,2024-05-09
+18,Olivia White,olivia.white@email.com,555-6789-2345,118,Budgeting and Saving,Finance,79.99,0.05,2024-06-22
+19,Steve Anderson,steve.anderson@email.com,555-3456-7890,119,Fundamentals of Photoshop,Photography,69.99,0.2,2024-07-05
+20,Sophie Davis,sophie.davis@email.com,555-7890-3456,120,Social Media Analytics,Marketing,64.99,0.15,2024-08-18
+21,Robert Smith,robert.smith@email.com,555-4567-8901,121,Spanish Conversation Practice,Language,29.99,0.1,2024-09-30
+22,Natalie Brown,natalie.brown@email.com,555-8901-4567,122,Portrait Photography,Photography,79.99,0.05,2024-10-12
+23,Chris Taylor,chris.taylor@email.com,555-1234-5678,123,Email Marketing Mastery,Marketing,89.99,0.2,2024-11-25
+24,Mia Robinson,mia.robinson@email.com,555-9876-5432,124,Android App Development,Programming,74.99,0.15,2024-12-08
+25,Ethan Davis,ethan.davis@email.com,555-5678-1234,125,Data Visualization with Python,Data Science,69.99,0.1,2025-01-21
+26,Grace Turner,grace.turner@email.com,555-4321-8765,126,Responsive Web Design,Web Development,54.99,0.05,2025-02-03
+27,Leo Miller,leo.miller@email.com,555-8765-4321,127,Leadership in the Digital Age,Leadership,89.99,0.2,2025-03-17
+28,Ava Anderson,ava.anderson@email.com,555-2345-6789,128,Intermediate Spanish,Language,39.99,0.15,2025-04-30
+29,Noah White,noah.white@email.com,555-6789-2345,129,Advanced Photography Techniques,Photography,79.99,0.1,2025-05-13
+30,Lily Robinson,lily.robinson@email.com,555-3456-7890,130,Influencer Marketing,Marketing,69.99,0.05,2025-06-26
+31,James Smith,james.smith@email.com,555-7890-3456,131,C++ Programming,Programming,59.99,0.2,2025-07-09
+32,Chloe Brown,chloe.brown@email.com,555-4567-8901,132,Machine Learning Applications,Data Science,94.99,0.15,2025-08-22
+33,Logan Taylor,logan.taylor@email.com,555-8901-4567,133,Advanced Web Development,Web Development,109.99,0.1,2025-09-04
+34,Zoe Davis,zoe.davis@email.com,555-1234-5678,134,Video Editing Basics,Design,49.99,0.05,2025-10-17
+35,Aiden Anderson,aiden.anderson@email.com,555-9876-5432,135,Financial Planning for Retirement,Finance,79.99,0.2,2025-11-30
+36,Emma Turner,emma.turner@email.com,555-5678-1234,136,Product Photography,Photography,59.99,0.15,2025-12-13
+37,Mason Miller,mason.miller@email.com,555-4321-8765,137,Social Media Advertising,Marketing,74.99,0.1,2026-01-26
+38,Addison White,addison.white@email.com,555-8765-4321,138,Advanced Photoshop Techniques,Design,69.99,0.05,2026-02-08
+39,Avery Davis,avery.davis@email.com,555-2345-6789,139,Beginner Investing Strategies,Finance,89.99,0.2,2026-03-23
+40,Riley Robinson,riley.robinson@email.com,555-6789-2345,140,Python for Data Science,Data Science,79.99,0.15,2026-04-05
+41,Morgan Taylor,morgan.taylor@email.com,555-3456-7890,141,Advanced JavaScript,Web Development,69.99,0.1,2026-05-18
+42,Charlie Brown,charlie.brown@email.com,555-7890-3456,142,Brand Identity Design,Design,54.99,0.05,2026-06-01
+43,Taylor White,taylor.white@email.com,555-4567-8901,143,Real Estate Investment,Finance,99.99,0.2,2026-07-14
+44,Riley Anderson,riley.anderson@email.com,555-8901-4567,144,Portrait Drawing Workshop,Art,49.99,0.15,2026-08-27
+45,Quinn Davis,quinn.davis@email.com,555-1234-5678,145,Social Media Management,Marketing,79.99,0.1,2026-09-09
+46,Peyton Turner,peyton.turner@email.com,555-9876-5432,146,Intermediate Spanish Conversation,Language,39.99,0.05,2026-10-22
+47,Jordan Smith,jordan.smith@email.com,555-5678-1234,147,Black and White Photography,Photography,69.99,0.2,2026-11-04
+48,Casey Brown,casey.brown@email.com,555-4321-8765,148,Content Creation Strategies,Marketing,74.99,0.15,2026-12-17
+49,Hunter White,hunter.white@email.com,555-8765-4321,149,Advanced Lighting Techniques,Photography,89.99,0.1,2027-01-30
+50,Avery Taylor,avery.taylor@email.com,555-2345-6789,150,Search Engine Optimization (SEO),Digital Marketing,59.99,0.05,2027-02-12
